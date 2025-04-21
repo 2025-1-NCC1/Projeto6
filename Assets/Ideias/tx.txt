@@ -1,0 +1,13 @@
+Energia:
+
+chuveiro eletrico : 15 kw/h .
+tempo de TV: 2 kw/h x
+ar condicionado: 10 kw/h
+maquina de lavar: 3 kw/h 
+luz: 17  kw/h
+
+Agua:
+banho: 120L
+higiene pessoal: 3L
+louça: 5L
+quintal: 30L
