@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "EcoVille.sln"
+    "dotnet.defaultSolution": "src.sln"
 }
