@@ -17,7 +17,7 @@ public class Dado : MonoBehaviour
         Debug.Log("Dado rolado! O dono da casa poderá modificar " + atributosModificaveis +
                   (atributosModificaveis == 1 ? " atributo." : " atributos."));
 
-        // Exemplo opcional: mostrar quais atributos podem ser modificados
+        //mostrar quais atributos podem ser modificados
         List<string> todosAtributos = new List<string> { "Água", "Energia", "Pessoas" };
         List<string> atributosSelecionados = new List<string>();
 
