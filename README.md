@@ -19,7 +19,3 @@ Este é a EcoVille, um jogo focado em desenvolvimento de cidades inteligentes.
 <br><br>
 Em parceria com FlexControl, nosso jogo tem o intuito de demonstrar na prática como cidades inteligentes e sustentáveis impactam em larga escala.
 <br><br>
-May the force be with you!
-<br><br>
-
-## 🛠 Estrutura de pastas
