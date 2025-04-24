@@ -12242,7 +12242,6 @@ GameObject:
   - component: {fileID: 822594979}
   - component: {fileID: 822594982}
   - component: {fileID: 822594984}
-  - component: {fileID: 822594983}
   m_Layer: 0
   m_Name: Casa9
   m_TagString: Untagged
@@ -12362,18 +12361,6 @@ MonoBehaviour:
   agua: 150.75
   numero_casa: 2
   membros: 1
---- !u!114 &822594983
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 822594977}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: df954f2e0231054449cfe776dc7148e8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &822594984
 MonoBehaviour:
   m_ObjectHideFlags: 0
