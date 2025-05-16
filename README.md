@@ -20,7 +20,7 @@ d
 ## Descrição
 
 <p align="center">
-  ![img_main (1)](https://github.com/user-attachments/assets/ea4c1115-22cd-44fd-a802-ae16f2320d98)
+  <img src="/imagens/img_main.png" />
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
