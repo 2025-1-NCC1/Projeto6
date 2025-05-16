@@ -20,8 +20,7 @@ d
 ## Descrição
 
 <p align="center">
-  ![img_main (1)]
-  ([https://github.com/user-attachments/assets/77a3b10f-54d8-462c-bf8a-2d93ff7607e7](https://github-production-user-asset-6210df.s3.amazonaws.com/144122265/444337142-77a3b10f-54d8-462c-bf8a-2d93ff7607e7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250516%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250516T005918Z&X-Amz-Expires=300&X-Amz-Signature=9d538c6eb945bb97b3bb39dbbf9e73a4e59d0e451573b0904ce3acda756b77b8&X-Amz-SignedHeaders=host))
+  ![img_main (1)](https://github.com/user-attachments/assets/ea4c1115-22cd-44fd-a802-ae16f2320d98)
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
