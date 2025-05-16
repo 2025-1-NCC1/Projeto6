@@ -20,12 +20,11 @@ d
 </p>
 
 
-EcoVille é um jogo de simulação e estratégia focado na construção de cidades autônomas, autossustentáveis e inteligentes. Como gestor de uma comunidade que depende exclusivamente de fontes renováveis de energia, você enfrentará desafios climáticos, administrará recursos e incentivará comportamentos sustentáveis. Seu objetivo é garantir que a c
-idade funcione de forma eficiente, mesmo em tempos de escassez, promovendo soluções criativas e tecnológicas para um futuro mais verde.
+EcoVille é um jogo de simulação e estratégia focado no gerenciamento de cidades autônomas, autossustentáveis e inteligentes. Como gestor de uma comunidade que depende exclusivamente de fontes renováveis de energia, você enfrentará desafios climáticos, administrará recursos e incentivará comportamentos sustentáveis. Seu objetivo é garantir que a cidade funcione de forma eficiente, mesmo em tempos de escassez.
 <br><br>
 Em parceria com FlexControl, nosso jogo tem o intuito de demonstrar na prática como cidades inteligentes e sustentáveis impactam em larga escala.
 <br><br>
-May the force be with you!
+Frase de impacto!
 <br><br>
 
 ## 🛠 Estrutura de pastas
