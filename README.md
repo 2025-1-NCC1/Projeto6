@@ -16,7 +16,7 @@ d
 
 <p align="center">
   <img src="/imagens/img_main.png" />
-  Game by <a href="http://https://github.com/2025-1-NCC1/Projeto6/tree/main/">CyberHawk</a>
+  <br/>Game by <a href="http://https://github.com/2025-1-NCC1/Projeto6/tree/main/">CyberHawk</a>
 </p>
 
 
