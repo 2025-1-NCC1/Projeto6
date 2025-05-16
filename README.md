@@ -19,8 +19,32 @@
 <a href="https://www.linkedin.com/in/gillespleite/" target="_blank" rel="noopener noreferrer"> Victor Bruno Alexander Rosetti de Quiroz </a>
 ## Descrição
 
-EcoVille é um jogo de simulação e estratégia focado na construção de cidades autônomas, autossustentáveis e inteligentes. Como gestor de uma comunidade que depende exclusivamente de fontes renováveis de energia, você enfrentará desafios climáticos, administrará recursos e incentivará comportamentos sustentáveis. Seu objetivo é garantir que a cidade funcione de forma eficiente, mesmo em tempos de escassez, promovendo soluções criativas e tecnológicas para um futuro mais verde.
+<p align="center">
+  !texto alternativo](imagens/img_main.png)` [1, 14]. O caminho deve ser relativo ao arquivo Markdown [14]. Por exemplo: `![Minha imagem]
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+</p>
 
+EcoVille é um jogo de simulação e estratégia focado na construção de cidades autônomas, autossustentáveis e inteligentes. Como gestor de uma comunidade que depende exclusivamente de fontes renováveis de energia, você enfrentará desafios climáticos, administrará recursos e incentivará comportamentos sustentáveis. Seu objetivo é garantir que a cidade funcione de forma eficiente, mesmo em tempos de escassez, promovendo soluções criativas e tecnológicas para um futuro mais verde.
 <br><br>
 Em parceria com FlexControl, nosso jogo tem o intuito de demonstrar na prática como cidades inteligentes e sustentáveis impactam em larga escala.
 <br><br>
+May the force be with you!
+<br><br>
+
+## 🛠 Estrutura de pastas
+
+-Raiz<br>
+|<br>
+|-->documentos<br>
+  &emsp;|-->antigos<br>
+  &emsp;|Documentação.docx<br>
+|-->executáveis<br>
+  &emsp;|-->windows<br>
+  &emsp;|-->android<br>
+  &emsp;|-->HTML<br>
+|-->imagens<br>
+|-->src<br>
+  &emsp;|-->Backend<br>
+  &emsp;|-->Frontend<br>
+|readme.md<br>
