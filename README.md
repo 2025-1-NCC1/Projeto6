@@ -59,12 +59,13 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="">Unity</a>
--<a href="">Unity 6000.0.38f1 (Editor)</a>
--<a href="">Licença Unity</a>
+-<a href="">Unity</a><br>
+-<a href="">Unity 6000.0.38f1 (Editor)</a><br>
+-<a href="">Licença Unity</a><br>
 
 
 - Inicie o UnityHub
+  - Selecione o Editor 6000.0.38f1.
   - Baixe o arquivo zip do projeto completo.
   - Extraia o arquivo em uma pasta.
   - Clique em (Add Project).
