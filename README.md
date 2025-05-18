@@ -1,4 +1,3 @@
-d
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
@@ -61,12 +60,15 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 -<a href="">Unity</a>
+-<a href="">Unity 6000.0.38f1 (Editor)</a>
+-<a href="">Licença Unity</a>
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+
+- Inicie o UnityHub
+  - Baixe o arquivo zip do projeto completo.
+  - Extraia o arquivo em uma pasta.
+  - Clique em (Add Project).
+  - Selecione a pasta que extraiu
 
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
@@ -75,9 +77,6 @@ Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licen�
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
+1. <https://github.com/fecaphub/Template_PI/blob/main/README.md>
 2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+3. <https://freesound.org/>
