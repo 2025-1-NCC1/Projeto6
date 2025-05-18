@@ -23,8 +23,6 @@ EcoVille é um jogo de simulação e estratégia focado no gerenciamento de cida
 <br><br>
 Em parceria com FlexControl, nosso jogo tem o intuito de demonstrar na prática como cidades inteligentes e sustentáveis impactam em larga escala.
 <br><br>
-Frase de impacto!
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
@@ -54,8 +52,6 @@ Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
