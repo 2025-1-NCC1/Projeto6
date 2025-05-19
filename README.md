@@ -36,7 +36,7 @@ Em parceria com FlexControl, nosso jogo tem o intuito de demonstrar na prática 
   &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->EcoVille<br>
 |readme.md<br>
 
 ## 🛠 Instalação
@@ -68,7 +68,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
   - Selecione a pasta que extraiu
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+<a href="https://tore2.itch.io/ecoville">EcoVille</a> © 2025 by <a href="https://github.com/2025-1-NCC1/Projeto6/tree/main">Fecap, Artur Loreto, Mariana Almeida, Guilherme Leão, EnHsiang Chien</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 
 ## 🎓 Referências
 
