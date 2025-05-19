@@ -14,7 +14,7 @@
 ## Descrição
 
 <p align="center">
-  <img src="/imagens/New_main.png" />
+  <img src="imagens/New_main.png" />
   <a href="https://github.com/2025-1-NCC1/Projeto6/tree/main">EcoVille</a> © 2025 by <a href="https://github.com/2025-1-NCC1/Projeto6/tree/main">Fecap, Artur Loreto, Mariana Almeida, Guilherme Leão, EnHsiang Chien</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>
 
