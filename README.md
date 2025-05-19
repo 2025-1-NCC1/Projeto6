@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="/imagens/New_main.png" />
-  <br/>Game by <a href="http://https://github.com/2025-1-NCC1/Projeto6/tree/main/">CyberHawk</a>
+  <a href="https://github.com/2025-1-NCC1/Projeto6/tree/main">EcoVille</a> © 2025 by <a href="https://github.com/2025-1-NCC1/Projeto6/tree/main">Fecap, Artur Loreto, Mariana Almeida, Guilherme Leão, EnHsiang Chien</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 </p>
 
 
