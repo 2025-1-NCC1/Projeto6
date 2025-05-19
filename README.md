@@ -8,7 +8,7 @@
 
 ## CyberHawk
 
-## Integrantes: <a href="https://www.linkedin.com/in/Loreto1306/">Artur Loreto</a>, <a href="https://github.com/Mariana851">Mariana Almeida</a>, <a href="https://www.linkedin.com/in/victorbarq/">Guilherme Leão</a>, <a href="https://github.com/pandebatata">EnHsiang Chien</a>
+## Integrantes: <a href="https://www.linkedin.com/in/Loreto1306/">Artur Loreto</a>, <a href="https://github.com/Mariana851">Mariana Almeida</a>, <a href="https://github.com/gui0406">Guilherme Leão</a>, <a href="https://github.com/pandebatata">EnHsiang Chien</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/francisco-escobar/" target="_blank" rel="noopener noreferrer">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/remuniz/" target="_blank" rel="noopener noreferrer">Renata Muniz</a>, <a href="https://www.linkedin.com/in/lucymari/" target="_blank" rel="noopener noreferrer">Lucy Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/" target="_blank" rel="noopener noreferrer"> Victor Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/gillespleite/" target="_blank" rel="noopener noreferrer">Gilles Pleite</a>
 ## Descrição
